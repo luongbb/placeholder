@@ -6,3 +6,8 @@ Project Details:
 - Replicate a Better Boeing
 
 Objective: Learn more about System Design through practice
+
+M - MongoDB
+E - Express
+R - React
+N - Node.js
